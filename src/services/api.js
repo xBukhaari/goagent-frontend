@@ -1,7 +1,8 @@
 import axios from 'axios';
 
+
 const api = axios.create({
-  baseURL: 'https://miniature-funicular-xqqvp4x4qjq2696p-8000.app.github.dev/',
+  baseURL: 'https://miniature-funicular-xqqvp4x4qjq2696p-8000.app.github.dev/api',
   headers: {
     'Content-Type': 'application/json',
     'Accept': 'application/json',
