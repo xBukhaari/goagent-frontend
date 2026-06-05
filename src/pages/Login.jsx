@@ -162,8 +162,8 @@ const styles = {
     color: "white",
   },
   leftLogo: {
-    height: "60px",
-    marginBottom: "2rem",
+    height: "350px",
+    marginBottom: "0rem",
   },
   leftHeading: {
     fontSize: "2rem",
